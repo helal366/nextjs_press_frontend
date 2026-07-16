@@ -1,3 +1,14 @@
+* first run the following commnad in terminal
+```
+pnpm create next-app@latest .
+```
+* now run the server with the following command : 
+```
+pnpm dev
+```
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
